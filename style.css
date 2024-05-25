@@ -121,6 +121,7 @@ main {
     font-size: 18px;
     font-weight: 500;
     color: var(--primary-text-color);
+    cursor: pointer;
 }
 
 .assuntos button div {
@@ -134,15 +135,15 @@ main {
     width: 100%;
 }
 
-.botao_HTML div  {
+.botao_html div  {
     background: var(--bg-html);
 }
 
-.botao_CSS div {
+.botao_css div {
     background: var(--bg-css);
 }
 
-.botao_JS div {
+.botao_javascript div {
     background: var(--bg-js);
 }
 
